@@ -1,0 +1,13 @@
+{
+  "author": "Sai Wong",
+  "name": "backbone-super-class",
+  "description": "Plugin to Backbone.js to enable super class functionality.",
+  "version": "0.1.0",
+  "homepage": "http://github.com/huffingtonpost/backbone-super-class",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/huffingtonpost/backbone-super-class"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
