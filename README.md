@@ -47,3 +47,8 @@ var supers = Backbone.__superClass__.noConflict(),
 **Backbone.__superClass__** Reference to the super class implementation that can be used to add functionality to any class. 
 
 **Backbone.__superClass__.noConflict** Returns an `object` that contains the references to the super class versions of the Backbone base classes. You can use the return value of `Backbone.__superClass__.noConflict()` to keep a local reference to super class implementation. This is useful when embedding in sites that use Backbone and you don't want to change their existing implementation.
+
+## Support
+
+To suggest a feature, report a bug, or general discussion: http://github.com/huffingtonpost/backbone-super-class/issues/
+
